@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880495048359",
+    "project_id": "bodymass-72708",
+    "storage_bucket": "bodymass-72708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880495048359:android:ed904e510f9dd474dc0d82",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_bodymass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880495048359-jp1tnsldq4m6ml5eugmogb4oduqu9aas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lCQi2OvfbxjKFUbm3v7s-l5rZ_WjWgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880495048359-jp1tnsldq4m6ml5eugmogb4oduqu9aas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
